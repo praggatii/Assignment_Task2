@@ -17,9 +17,10 @@ This project extracts data from PDF reports available on a specific webpage. The
   - `datetime`
 
 To install the required Python libraries, you can use `pip`:
-
-```bash
+``` bash
 pip install requests pdfplumber selenium
+
+```
 
 
 Overview
